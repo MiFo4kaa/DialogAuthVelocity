@@ -2,7 +2,7 @@
 
 Addon for /license (premium) command that allows to connect premium players with online-mode without typing password
 
-**check also:** [DialogAuth](https://github.com/MiFo4ka/DialogAuth) - required
+**check also:** [DialogAuth](https://github.com/MiFo4kaa/DialogAuth) - required
 
 ## Features
 * **Multi-Database Support:** MySQL, H2, and PostgreSQL.
