@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DialogAuthVelocity.iml" filepath="$PROJECT_DIR$/DialogAuthVelocity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DialogAuthVelocity.iml" filepath="$PROJECT_DIR$/.idea/DialogAuthVelocity.iml" />
     </modules>
   </component>
 </project>
